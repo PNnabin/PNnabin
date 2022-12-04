@@ -1,0 +1,1 @@
+{"ip":"PUBLICK_SERVER1.aternos.me","name":"PUBLICK_SERVER1.aternos.me","port":"58284"}
